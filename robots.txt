@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rizwanahmad8311.github.io/budspilot-site/sitemap.xml
