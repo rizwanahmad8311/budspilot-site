@@ -1,0 +1,15 @@
+{
+  "name": "BudsPilot",
+  "short_name": "BudsPilot",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#101113",
+  "theme_color": "#101113",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
